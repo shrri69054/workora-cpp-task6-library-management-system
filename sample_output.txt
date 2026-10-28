@@ -1,0 +1,93 @@
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. List catalog
+2. Add book
+3. Add journal
+4. Add member
+5. List members
+6. Check out item
+7. Return item
+8. Search
+9. Overdue report
+10. Fast-forward days (test fines)
+11. Save & Exit
+Choice: 
+ID   Type     Title                         Author/Publisher    Status
+-------------------------------------------------------------------------------------
+101  Book     The C++ Programming Language  Bjarne Stroustrup   Available
+102  Book     Effective Modern C++          Scott Meyers        Available
+103  Book     Clean Code                    Robert C. Martin    Available
+104  Journal  ACM Computing Surveys         ACM                 Available
+105  Journal  IEEE Software                 IEEE                Available
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. List catalog
+2. Add book
+3. Add journal
+4. Add member
+5. List members
+6. Check out item
+7. Return item
+8. Search
+9. Overdue report
+10. Fast-forward days (test fines)
+11. Save & Exit
+Choice:   Member 1: Arun Kumar (loans: 0)
+  Member 2: Priya Nair (loans: 0)
+Member ID: Item ID:   Checked out 'The C++ Programming Language'. Loan period: 14 days. Fine: Rs. 2/day after due date.
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. List catalog
+2. Add book
+3. Add journal
+4. Add member
+5. List members
+6. Check out item
+7. Return item
+8. Search
+9. Overdue report
+10. Fast-forward days (test fines)
+11. Save & Exit
+Choice: Fast-forward how many days (for testing fines)?   Clock moved forward by 20 day(s) (total simulated: 20).
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. List catalog
+2. Add book
+3. Add journal
+4. Add member
+5. List members
+6. Check out item
+7. Return item
+8. Search
+9. Overdue report
+10. Fast-forward days (test fines)
+11. Save & Exit
+Choice:   The C++ Programming Language (member 1) - fine Rs. 12.00
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. List catalog
+2. Add book
+3. Add journal
+4. Add member
+5. List members
+6. Check out item
+7. Return item
+8. Search
+9. Overdue report
+10. Fast-forward days (test fines)
+11. Save & Exit
+Choice: Item ID to return:   Returned. OVERDUE! Fine due: Rs. 12.00
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. List catalog
+2. Add book
+3. Add journal
+4. Add member
+5. List members
+6. Check out item
+7. Return item
+8. Search
+9. Overdue report
+10. Fast-forward days (test fines)
+11. Save & Exit
+Choice: Catalog saved. Goodbye!
